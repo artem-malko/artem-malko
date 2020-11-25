@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Artem and this is my short selft presentation.
 
