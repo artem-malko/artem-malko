@@ -1,6 +1,6 @@
-# Hi 👋
+# Hi there 👋
 
-My name is Artem and this is my selft presentation.
+My name is Artem and this is my short selft presentation.
 
 * From Siberia ❄, Novosibirsk
 * Frontend developer in [2GIS 🗺](https://2gis.ae/dubai?m=55.11803%2C25.131033%2F17.83%2Fp%2F44.69%2Fr%2F77.23). Working on 2gis online
