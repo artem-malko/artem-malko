@@ -4,7 +4,7 @@ My name is Artem and there are some facts about me:
 
 * From Siberia ❄, Novosibirsk
 * Frontend engineer in [2GIS 🗺](https://2gis.ae/dubai?m=55.11803%2C25.131033%2F17.83%2Fp%2F44.69%2Fr%2F77.23). Working on 2GIS online
-* 👨‍💻 Working on secret pet-project 🐶 (I hope, I'll release it soon)
+* 👨‍💻 Working on secret pet-project 🐶 
 * The guys from Starbucks think that my name is Adam and nothing can change it 🙂
 * You can reach me via [email (artem.malko@gmail.com)](mailto:artem.malko@gmail.com) or [telegram  <img src="https://simpleicons.org/icons/telegram.svg" width="14px">](https://t.me/artemmalko)
 
