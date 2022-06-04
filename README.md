@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/artem-malko/self-presentation/main/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/artem-malko/self-presentation/main/wave.gif" width="30px" height="30px">
 
 My name is Artem and there are some facts about me:
 
