@@ -31,7 +31,5 @@ My name is Artem and there are some facts about me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-malko)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-
 ### 📈 My GitHub Stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=artem-malko&show_icons=true&count_private=true&hide=stars)
